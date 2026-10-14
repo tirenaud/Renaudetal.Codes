@@ -1,0 +1,97 @@
+Values given in the boxplots (Figure 4):
+
+** Mean and median values for beta:
+
+All: mean=0.086, median=0.050
+Outliers excluded: mean=0.110, median=0.150
+Extreme durations excluded: mean=0.160, median=0.150
+Lowest relative uncertainties: mean=0.179, median=0.150
+Weak plumes: mean=0.095, median=0.050
+Strong plumes: mean=0.135, median=0.150
+Wet: mean=0.102, median=0.050
+Dry: mean=0.230, median=0.250
+Tropical: mean=0.050, median=0.050
+High latitudes: mean=0.225, median=0.250
+Data interpretation flags 2 excluded: mean=0.230, median=0.150
+
+** Probability error lower than 0D Empirical:
+
+Model = dry Plumerise: 
+All: 0.570
+Outliers excluded: 0.562
+Extreme durations excluded: 0.503
+Lowest relative uncertainties: 0.458
+Weak plumes: 0.410
+Strong plumes: 0.524
+Wet: 0.492
+Dry: 0.607
+Tropical: 0.306
+High latitudes: 0.536
+Data interpretation flags 2 excluded: 0.478
+
+Model = wet Plumerise: 
+All: 0.568
+Outliers excluded: 0.563
+Extreme durations excluded: 0.501
+Lowest relative uncertainties: 0.447
+Weak plumes: 0.400
+Strong plumes: 0.520
+Wet: 0.494
+Dry: 0.607
+Tropical: 0.310
+High latitudes: 0.546
+Data interpretation flags 2 excluded: 0.458
+
+Model = ice Plumerise: 
+All: 0.525
+Outliers excluded: 0.530
+Extreme durations excluded: 0.467
+Lowest relative uncertainties: 0.408
+Weak plumes: 0.310
+Strong plumes: 0.509
+Wet: 0.432
+Dry: 0.582
+Tropical: 0.308
+High latitudes: 0.560
+Data interpretation flags 2 excluded: 0.378
+
+Model = dry Geneva: 
+All: 0.554
+Outliers excluded: 0.555
+Extreme durations excluded: 0.495
+Lowest relative uncertainties: 0.443
+Weak plumes: 0.390
+Strong plumes: 0.521
+Wet: 0.457
+Dry: 0.594
+Tropical: 0.312
+High latitudes: 0.536
+Data interpretation flags 2 excluded: 0.489
+
+Model = wet Geneva: 
+All: 0.455
+Outliers excluded: 0.469
+Extreme durations excluded: 0.443
+Lowest relative uncertainties: 0.459
+Weak plumes: 0.343
+Strong plumes: 0.508
+Wet: 0.397
+Dry: 0.580
+Tropical: 0.370
+High latitudes: 0.551
+Data interpretation flags 2 excluded: 0.405
+
+** Mean and median values for alpha:
+
+All: mean=0.142, median=0.140
+Outliers excluded: mean=0.137, median=0.140
+Extreme durations excluded: mean=0.099, median=0.080
+Lowest relative uncertainties: mean=0.062, median=0.050
+Weak plumes: mean=0.166, median=0.170
+Strong plumes: mean=0.088, median=0.080
+Wet: mean=0.170, median=0.200
+Dry: mean=0.087, median=0.080
+Tropical: mean=0.148, median=0.140
+High latitudes: mean=0.111, median=0.110
+Data interpretation flags 2 excluded: mean=0.082, median=0.080
+

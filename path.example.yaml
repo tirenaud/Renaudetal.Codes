@@ -1,0 +1,11 @@
+### Copy this and create a file named 'path.yaml' in the same directory
+### 'path.yaml' is added to .gitignore to avoid pushing it to github
+### and keep your paths private
+
+### Just add path of the data folder available on the drive:
+### https://drive.google.com/drive/folders/18ql6PSlMCpIk84b70P9pGGqQjFvFM9JN?usp=share_link
+
+# ----- copy and paste -----
+
+### Original Path File available on google drive
+dossier_final: '/Users/titouanrenaud/Documents/ENS/ARPE/DRIVE_DATA_FOLDER'

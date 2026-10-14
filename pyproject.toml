@@ -1,0 +1,6 @@
+[project]
+name = "renaudetal"
+version = "0.1.0"
+
+[tool.setuptools]
+packages = ["utils", "utils.DRAW_INPUTS"]

@@ -1,0 +1,17 @@
+## my pesonal path
+path.yaml
+
+## Virtual python environment
+.venv/
+
+## Rendered figures
+*.pdf
+*.png
+
+## plumerise package 
+plumerise/
+
+## utility files
+utils/__pycache__/
+utils/DRAW_INPUTS/__pycache__/
+renaudetal.egg-info/
