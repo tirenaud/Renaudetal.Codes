@@ -1,8 +1,20 @@
 # Codes for 1D models figures in 'Global eruption reconstructions suggest weak atmospheric impacts on volcanic plume rise'
 
-This Git gives access to all the codes used relative to the 1D models. Drawinf of the input parameters space, Monte-Carlo design, statisticall treatment and figures. 
+This Git gives access to all the codes relative to the 1D models. Drawing of the input parameters space, Monte-Carlo design, statisticall treatment and figures. 
 
 A more detailed description is availbale in the Method section of the paper.
+
+## Contact
+
+titouan.renaud@lsce.ipsl.fr
+
+## Getting started
+
+These scripts use the Plumerise model, its outputs and outputs from the Geneva model. 
+
+The Plumerise package is available here: `Git Plumerise?`
+
+The outputs, atmospheric profiles and all the data are available here: https://doi.org/10.5281/zenodo.23351586. Download the files to a local repository. Then create a file called `path.yaml` in the current repository. Follow the example `path.example.yaml` and register in your `path.yaml` file the path to the Zenedo folder. 
 
 ## Drawing input parameter space and running models
 
