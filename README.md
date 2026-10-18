@@ -12,7 +12,7 @@ titouan.renaud@lsce.ipsl.fr
 
 These scripts use the Plumerise model, its outputs and outputs from the Geneva model. 
 
-The Plumerise package is available here: https://github.com/markwoodhouse/pyplumerise.git.
+The Plumerise package is available here: [https://github.com/markwoodhouse/pyplumerise.git.](https://zenodo.org/records/23437674)
 
 The outputs, atmospheric profiles and all the data are available here: https://doi.org/10.5281/zenodo.23351586. Download the files to a local repository. Then create a file called `path.yaml` in the current repository. Follow the example `path.example.yaml` and register in your `path.yaml` file the path to the Zenedo folder. 
 
